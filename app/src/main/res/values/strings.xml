@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">EcoCount_Public</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="refresh_speed">refresh_speed</string>
+    <string name="_0_00">0:00</string>
+    <string name="start_time">Start Time</string>
+    <string name="walk_0_meters">Walked: </string>
+    <string name="bike_0_meters">Biked: </string>
+    <string name="carbon_footprint_0_grams_of_carbon_released_today">Carbon Footprint: 0 grams released today</string>
+    <string name="drove_0_meters">Driven: </string>
+    <string name="title_activity_maps">Map</string>
 </resources>
